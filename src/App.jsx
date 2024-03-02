@@ -146,7 +146,7 @@ function App() {
         <div className="my">
           <div className="conasi"><img src={contant[1].imgRightBottom} alt="" /></div>
           <h4 className="alo">Adding 11 herbs and spices, Explore our menu and add items to your cart.</h4>
-          <button className="butonic">EXPLORE Main MENU</button>
+          <button className="butonic">EXPLORE MENU</button>
         </div>
       </div>
   </div>
